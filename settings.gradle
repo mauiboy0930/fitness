@@ -1,2 +1,4 @@
+include ':AndroidData'
+include ':domain'
 include ':app'
 rootProject.name = "fitness"
